@@ -1,0 +1,4 @@
+https://ktaidevelopers.github.io/Template%20(new)/%EA%B0%9C%EB%B0%9C%20%EC%B2%AB%EA%B1%B8%EC%9D%8C/
+
+[p-tts]
+https://github.com/gigagenie/cloud-aiapi
